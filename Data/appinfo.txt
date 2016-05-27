@@ -1,5 +1,5 @@
 Takk for ditt valg av faktura system!
-Programmet er utviklet for mindre og mellomstore bedrifter som behøver en effektig og enkel faktureringsprosess. For å komme raskt i sving foreslår vi at du først leser dokumentasjonen.
+Programmet er utviklet for mindre og mellomstore bedrifter som behøver en effektiv og enkel faktureringsprosess. For å komme raskt i sving foreslår vi at du først leser dokumentasjonen.
 
 Har du spørsmål så ikke nøl med å ta *kontakt med oss. 
 (*) Krever service avtale.
