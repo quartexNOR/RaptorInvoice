@@ -1,0 +1,58 @@
+Hva er nytt i Service Pack 2
+============================
+
+I tilleg til generelle forbedringer inneholder Raptor Faktura version 1.2
+(SP2) følgende ny og spennende funksjonalitet:
+
+*Støtte for kundegrupper:
+Alle kunder registreres nå under egendefinerte grupper.
+Ved bruk av grupper kan man enkelt manipulere rabatter for større kundebaser.
+I fremtiden vil det også komme mange kraftige funksjoner for kundegruppene.
+
+*Kontier:
+Raptor faktura lar deg nå skape, redigere og bruke flere database kontier.
+En kontie er en betegnelse på de database tabellene Raptor bruker.
+Dette er ypperlig for skoler, klubber eller grundere som ønsker å fakturere
+for flere firmaer fra samme program.
+
+*Støtte for purregebyr og renter:
+Raptor støtter nå både purregebyr og renteberegning.
+
+*Velg hele rader/velg kolonner:
+Du kan nå selv styre hvorvidt du ønsker å velge hele rader i fremvisningen,
+eller gå direkte på kolonne nivå.
+
+*Kalkulatoren er borte:
+Desverre måtte vi si adjø til kalkulatoren da den ikke lenger passer inn i vår
+modell. Den kan komme tilbake i en ny og bedre utgave senere.
+
+*Direkte tilgang er borte:
+Det er raskere å oppdrive faktura eller annen informasjon ved å skrive direkte
+i fremvisningen. Direkte tilgang feltet er derfor tatt bort.
+
+*Oppdater funksjon er borte:
+Vi har bygget om store deler av systemet for hastighet -og resultatet ble at
+oppdater knappen ble overflødig. Alt skjer nå i sanntid og oppdateres direkte.
+
+*Nøkkeltall feltene er borte:
+Vi har tatt bort de enkle nøkkeltallene fra kontrollpanelet, og plassert
+disse i en egen fane.
+
+*Lagring av instillinger:
+Raptor Faktura lagrer ikke lenger instillinger i Windows registeret, men i samme
+mappe som aktive kontie. Dette gir bedre ytelse under tung rapport generering.
+
+*Bedre hukommelse:
+Raptor Faktura husker nå flere instillinger enn før. Programmet vil bla. lagre
+utseende på database grid layout (slik du sist satte dem).
+
+*Ny fane på arbeidsflaten:
+En ny informasjons fane er lagt til i programmet. Denne fanen viser hele tiden
+firma informasjon og spennende nøkkeltall. Flere funksjoner vil bli lagt til
+her senere.
+
+*Annet:
+Database motor oppdatert fra 2.x til 5.x
+Database grid oppdatert fra x.0 til x.2
+Rapport system oppdatert fra 2.x til 7.x
+

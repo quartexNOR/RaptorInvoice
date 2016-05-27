@@ -1,0 +1,27 @@
+.MenuText {
+	font-family: "Trebuchet MS";
+	font-size: 14px;
+	font-style: normal;
+	border: 0px none #336699;
+
+}
+.GreyGox {
+	border: 1px solid #CCCCCC;
+}
+.SolidSeperator {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: solid;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+}
+.DarkGreyBox {
+	border: 1px solid #666666;
+}
